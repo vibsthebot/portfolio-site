@@ -5,6 +5,7 @@ import Head from 'next/head'
 
 export default function Page() {
   return (
+  
   <main className="h-screen-min bg-stone-800 text-white">
     <div className="p-10 h-screen flex items-center">
       <div>
