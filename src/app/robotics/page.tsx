@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function Page() {
     const projects = [
         {
-            title: "FRC 649 - software subsystem lead",
+            title: "FRC 649 - software co-lead and scouting lead",
             period: "august 2024 - present",
             description: "Led a 3 member team in developing the game piece acquisition and scoring algorithms. Developed inverse kinematic and forward kinematics algorithms to simplify game piece transfers and scoring. Used AdvantageScope, a robotics simulator, to visualize mechanical movements and test algorithms.",
             color: "blue",
