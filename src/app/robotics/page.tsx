@@ -1,5 +1,5 @@
 import YouTubeEmbed from '@/components/YouTubeEmbed';
-
+import Image from 'next/image';
 export default function Page() {
     const projects = [
         {
@@ -68,7 +68,9 @@ export default function Page() {
                                                 key={i} 
                                                 className="aspect-square bg-stone-700 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow"
                                             >
-                                                <img 
+                                                <Image 
+                                                    width={300}
+                                                    height={300}
                                                     src={thumb}
                                                     alt={`${project.title} thumbnail ${i + 1}`}
                                                     className="w-full h-full object-cover"
@@ -89,7 +91,7 @@ export default function Page() {
                                         </div>
                                     ) : (
                                         <div className="aspect-video bg-stone-700 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
-                                            <img 
+                                            <Image 
                                                 src={project.mainImage}
                                                 alt={`${project.title} main image`}
                                                 className="w-full h-full object-cover"

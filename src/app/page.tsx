@@ -21,6 +21,7 @@ export default function Page() {
           <li>i have a passion for programming, reading, and pixel art</li>
           <li>i play the french horn and have been learning south indian carnatic music</li>
           <li>i am a boy scout, working towards the rank of eagle</li>
+          <li>i have gone on a <Link href="/keyboards" className="underline">keyboard journey</Link> and love custom keyboards</li>
           <li>here are some of my <Link href="/projects" className="underline">projects</Link></li>
           <li className="flex items-center pt-2">
             <div className="flex items-center relative group">
