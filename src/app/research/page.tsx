@@ -212,7 +212,7 @@ export default function Page() {
                             <h2 className="text-3xl font-semibold text-stone-200">references</h2>
                             <ul className="list-disc pl-6 text-stone-200 leading-relaxed space-y-3">
                                 <li>
-                                    <b>Zhao TZ, et al. (2023).</b> "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware."
+                                    <b>Zhao TZ, et al. (2023).</b> &quot;Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware.&quot;
                                     arXiv. Available from:{" "}
                                     <a
                                         href="https://arxiv.org/abs/2304.13705"
@@ -224,7 +224,7 @@ export default function Page() {
                                     </a>
                                 </li>
                                 <li>
-                                    <b>Tsuji T, et al. (2025).</b> "A Survey on Imitation Learning for Contact-Rich Tasks in Robotics."
+                                    <b>Tsuji T, et al. (2025).</b> &quot;A Survey on Imitation Learning for Contact-Rich Tasks in Robotics.&quot;
                                     arXiv. Available from:{" "}
                                     <a
                                         href="https://arxiv.org/abs/2506.13498"
@@ -236,7 +236,7 @@ export default function Page() {
                                     </a>
                                 </li>
                                 <li>
-                                    <b>He Z, et al. (2024).</b> "FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation."
+                                    <b>He Z, et al. (2024).</b> &quot;FoAR: Force-Aware Reactive Policy for Contact-Rich Robotic Manipulation.&quot;
                                     arXiv. Available from:{" "}
                                     <a
                                         href="https://arxiv.org/abs/2411.15753"
@@ -248,13 +248,13 @@ export default function Page() {
                                     </a>
                                 </li>
                                 <li>
-                                    <b>Li Y, Hannaford B. (2017).</b> "Gaussian Process Regression for Sensorless Grip Force Estimation of
-                                    Cable Driven Elongated Surgical Instruments." IEEE Robotics and Automation Letters,
+                                    <b>Li Y, Hannaford B. (2017).</b> &quot;Gaussian Process Regression for Sensorless Grip Force Estimation of
+                                    Cable Driven Elongated Surgical Instruments.&quot; IEEE Robotics and Automation Letters,
                                     2(3):1312–1319.
                                 </li>
                                 <li>
-                                    <b>Kobayashi M, et al. (2024).</b> "ILBiT: Imitation Learning for Robot Using Position and Torque
-                                    Information based on Bilateral Control with Transformer." arXiv. Available from:{" "}
+                                    <b>Kobayashi M, et al. (2024).</b> &quot;ILBiT: Imitation Learning for Robot Using Position and Torque
+                                    Information based on Bilateral Control with Transformer.&quot; arXiv. Available from:{" "}
                                     <a
                                         href="https://arxiv.org/abs/2401.16653"
                                         target="_blank"
