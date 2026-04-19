@@ -28,7 +28,7 @@ export default function Page() {
                         />
                         <ProjectCard
                             title="Minion - in progress"
-                            description="designed to be the swiss army knife of electronics. it is powered by an esp32-s3 and includes a 128x128 pixel display, an accelerometer, 3 buttons, a rotary encoder, a 3.5mm audio jack, a rechargable battery, and a usb hub (usb c input, usb a and microsd output)."
+                            description="designed to be the swiss army knife of electronics. it is powered by an esp32-s3 and includes a 128x128 pixel display, an accelerometer, 3 buttons, a rotary encoder, a 3.5mm audio jack, a rechargeable battery, and a usb hub (usb c input, usb a and microsd output)."
                             imageSrc="/minion.png"
                             imageAlt="Minion"
                             githubLink="https://github.com/vibsthebot/minion"
@@ -36,7 +36,7 @@ export default function Page() {
                         />
                         <ProjectCard
                             title="XKCDwakaDo - 2024"
-                            description="a chrome extension that replaces your new tab page with the latest XKCD comic. it also has a built in to-do list, along with a wakatime integration for daily coding time."
+                            description="a chrome extension that replaces your new tab page with the latest XKCD comic. it also has a built-in to-do list, along with a wakatime integration for daily coding time."
                             imageSrc="/xkcdwakado.png"
                             imageAlt="XKCDwakaDo"
                             chromeStoreLink="https://chromewebstore.google.com/detail/kkpmedeigfdpclmkanfhbmcaaakkmkcc?utm_source=item-share-cb"
@@ -52,7 +52,7 @@ export default function Page() {
                         />
                         <ProjectCard
                             title="Mirror Wars - 2024"
-                            description="a 2d platformer game made using pygame. the player controls a character that has to defeat a shadow version of themselves using a unique mirror mechanism. this project was made for Counterspell Silicon Valley, a 16 hr game jam, and it won the judges choice award!"
+                            description="a 2d platformer game made using pygame. the player controls a character that has to defeat a shadow version of themselves using a unique mirror mechanism. this project was made for Counterspell Silicon Valley, a 16 hr game jam, and it won the Judges' Choice Award!"
                             imageSrc="/mirror-wars.png"
                             imageAlt="Mirror Wars"
                             githubLink="https://github.com/vibsthebot/mirror-wars"

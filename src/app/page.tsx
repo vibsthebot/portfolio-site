@@ -19,7 +19,7 @@ export default function Page() {
           <li>saratoga high school class of 2028</li>
           <li>i love <Link href="/robotics" className="underline">robotics</Link>, 3d printing, and CAD</li>
           <li>i have a passion for programming, reading, and pixel art</li>
-          <li>i have recently been <Link href="/so101-research" className="underline">exploring fronteirs in robotics and AI</Link></li>
+          <li>i have recently been <Link href="/so101-research" className="underline">exploring frontiers in robotics and AI</Link></li>
           <li>i play the french horn and have been learning south indian carnatic music</li>
           <li>i am a boy scout, working towards the rank of eagle</li>
           <li>i have gone on a <Link href="/keyboards" className="underline">keyboard journey</Link> and love custom keyboards</li>
@@ -30,7 +30,7 @@ export default function Page() {
                 <Image src="/github-mark-white.png"
                 width={25}
                 height={25}
-                alt="Github logo">
+                alt="GitHub logo">
                 </Image>
               </Link>
               <Link href="https://github.com/vibsthebot"  target="_blank">
