@@ -4,8 +4,8 @@ export default function Page() {
     return (
         <main className="min-h-screen bg-stone-800 text-white">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-                <h1 className="text-6xl font-bold mb-16 leading-tight max-w-6xl">
-                    Research: The Effect of Incorporating Motor Current Feedback in an Imitation Learning Policy for a Multi-DOF Robot
+                <h1 className="text-5xl font-bold mb-16 leading-tight max-w-6xl">
+                    Research: <div className='text-4xl'>The Effect of Incorporating Motor Current Feedback in an Imitation Learning Policy for a Multi-DOF Robot</div>
                 </h1>
 
                 <div className="space-y-24">
@@ -61,13 +61,7 @@ export default function Page() {
                     </section>
 
                     <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
-                        <Image
-                            src="/research/model-architecture.png"
-                            alt="ACT model architecture with gripper current input"
-                            width={500}
-                            height={400}
-                            className="w-full rounded-lg"
-                        />
+                        
                         <div className="space-y-6">
                             <h2 className="text-3xl font-semibold text-amber-400">training + inference</h2>
                             <p className="text-white leading-relaxed text-lg">
@@ -79,6 +73,13 @@ export default function Page() {
                                 about 0.176s and chunk execution about 3.33s at 30 Hz.
                             </p>
                         </div>
+                        <Image
+                            src="/research/model-architecture.png"
+                            alt="ACT model architecture with gripper current input"
+                            width={500}
+                            height={400}
+                            className="w-full rounded-lg"
+                        />
                     </section>
 
                     <section className="space-y-6">
